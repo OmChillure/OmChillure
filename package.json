@@ -1,0 +1,17 @@
+{
+    "name": "omchillure",
+    "version": "0.0.1",
+    "description": "just my intro",
+    "main": "cli.js",
+    "bin": "cli.js",
+    "files": ["cli.js"],
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/OmChillure.git"
+    },
+    "keywords": [
+      "aboutme"
+    ],
+    "author": "Om Chillure",
+    "license": "ISC"
+  }
