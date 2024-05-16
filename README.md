@@ -22,7 +22,7 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmChillure&layout=compact&theme=chartreuse-dark" alt=omchillure />
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmChillure&theme=chartreuse_dark" height="180em" />
+<img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=OmChillure&show_icons=true&layout=compact&theme=chartreuse-dark" alt=omchillure />
 
 
 <p><img align="center" height="180em" border="white" src="https://github-readme-streak-stats.herokuapp.com/?user=OmChillure&theme=chartreuse-dark" alt="omchillure" /></p>
