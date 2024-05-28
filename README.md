@@ -27,6 +27,7 @@
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OmChillure&theme=chartreuse-dark&hide_border=false)<br/>
+![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmChillure&show_icons=true&theme=chartreuse-dark)
 
 
 ---
