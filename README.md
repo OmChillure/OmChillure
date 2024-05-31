@@ -8,7 +8,7 @@
 # 💻 Tech Stack:
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,py,cpp,js)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
 
