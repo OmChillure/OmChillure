@@ -23,7 +23,7 @@
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmChillure&layout=compact&theme=chartreuse-dark" alt=OmChillure />
 
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmChillure&show_icons=true&theme=chartreuse-dark)
+![](https://github-readme-stats.vercel.app/api?username=OmChillure&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OmChillure&theme=chartreuse-dark&hide_border=false)<br/>
