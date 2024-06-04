@@ -26,9 +26,7 @@
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmChillure&show_icons=true&theme=chartreuse-dark)
 
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmChillure&theme=chartreuse_dark" height="180em" />
-
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=OmChillure&theme=chartreuse-dark&hide_border=false)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OmChillure&icon=0&color=0)](https://visitcount.itsvg.in)
