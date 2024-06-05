@@ -23,7 +23,7 @@
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmChillure&layout=compact&theme=chartreuse-dark" alt=OmChillure />
 
- <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=OmChillure&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OmChillure&theme=chartreuse-dark" alt="OmChillure" /></p>
