@@ -23,7 +23,7 @@
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmChillure&layout=compact&theme=chartreuse-dark" alt=OmChillure />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmChillure&show_icons=true&theme=chartreuse-dark&count_private=true)
 
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OmChillure&theme=chartreuse-dark" alt="OmChillure" /></p>
