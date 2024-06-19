@@ -21,7 +21,7 @@
 # 📊 GitHub Stats:
 <h3 align="left">Stars</h3>
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmChillure&layout=compact&theme=chartreuse-dark" alt=OmChillure />
+<img style="padding=0;" src="https://grs.quantumly.dev/api/?username=OmChillure&show_icons=true&title_color=4F8CC9&text_color=black&bg_color=black&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmChillure&show_icons=true&theme=chartreuse-dark&count_private=true)
 
