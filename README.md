@@ -21,8 +21,8 @@
 # 📊 GitHub Stats:
 <h3 align="left">Stars</h3>
 
-<img align="center" src="https://github-readme-stats-swart-kappa-54.vercel.app/api?username=OmChillure&amp;theme=chartreuse-dark;show_icons=true&amp;count_private=true">
-![OM's GitHub stats](https://github-readme-stats-swart-kappa-54.vercel.app/api?username=OmChillure&show_icons=true&theme=chartreuse-dark)
+<img align="center" style="background-color: black;" src="https://github-readme-stats-swart-kappa-54.vercel.app/api?username=OmChillure&amp;theme=chartreuse-dark;show_icons=true&amp;count_private=true">
+
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OmChillure&theme=chartreuse-dark" alt="OmChillure" /></p>
 
