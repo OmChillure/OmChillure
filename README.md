@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭  I’m currently focused on learnirning BLockchain <br>🤝 Delving in C++ to master data structures and algorithms.<br>⚡ Being a fresher seeking continous opportunities for open source contributions<br><br>
+🔭  I’m currently focused on learnirning BLockchain <br>🤝 Delving in C++ to master data structures and algorithms.<br>⚡ Being a fresher seeking continous opportunities for open source contributions<br>📃 [Download My Resume](https://drive.google.com/file/d/13yJQP2NO2cHex9iIl53qKUHSlPBLo3od/view?usp=sharing)
+<br><br> 
 
 
 ## 🌐 Socials:
