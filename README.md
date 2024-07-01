@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently focused on learning Generative Ai<br>🤝 Delving in C++ to master data structures and algorithms.<br>⚡ Being a fresher seeking continous opportunities for open source contributions<br><br>
+🔭  I’m currently focused on learnirning BLockchain <br>🤝 Delving in C++ to master data structures and algorithms.<br>⚡ Being a fresher seeking continous opportunities for open source contributions<br><br>
 
 
 ## 🌐 Socials:
