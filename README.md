@@ -20,8 +20,8 @@
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TENSORFLOW](https://img.shields.io/badge/Tensorflow-404D59?style=for-the-badge&logo=tensorflow&logoColor=%white)
-![OPENCV](https://img.shields.io/badge/OpenCV-38B2AC?style=for-the-badge&logo=opencv&logoColor=white)
-![FLASK](https://img.shields.io/badge/Flask-38B2AC?style=for-the-badge&logo=flask&logoColor=white)
+![OPENCV](https://img.shields.io/badge/OpenCV-d90429?style=for-the-badge&logo=opencv&logoColor=white)
+![FLASK](https://img.shields.io/badge/Flask-e0e1dd?style=for-the-badge&logo=flask&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
