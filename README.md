@@ -21,12 +21,12 @@
 ![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TENSORFLOW](https://img.shields.io/badge/Tensorflow-404D59?style=for-the-badge&logo=tensorflow&logoColor=%white)
 ![OPENCV](https://img.shields.io/badge/OpenCV-d90429?style=for-the-badge&logo=opencv&logoColor=white)
-![FLASK](https://img.shields.io/badge/Flask-e0e1dd?style=for-the-badge&logo=flask&logoColor=white)
+![FLASK](https://img.shields.io/badge/Flask-1b263b?style=for-the-badge&logo=flask&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 ### ⚡️ Tools & Platforms:
-![GOOLECLOUDPLATFORM](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GOOLECLOUDPLATFORM](https://img.shields.io/badge/Goole_Cloud_Platform-100000?style=for-the-badge&logo=google-cloud-platform&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/Postman-E25825?style=for-the-badge&logo=postman&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
