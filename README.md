@@ -9,7 +9,7 @@
 # 💻 Tech Stack:
 
 ### 🧑🏻‍💻 Languages :
-![RUST](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=rust&logoColor=white)
+![RUST](https://img.shields.io/badge/Rust-007ACC?style=for-the-badge&logo=rust&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![C++](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=cpp&logoColor=white)</br>
@@ -19,9 +19,9 @@
 ![NEXTJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TENSORFLOW](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=tensorflow&logoColor=%white)
-![OPENCV](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=opencv&logoColor=white)
-![FLASK](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=flask&logoColor=white)
+![TENSORFLOW](https://img.shields.io/badge/Tensorflow-404D59?style=for-the-badge&logo=tensorflow&logoColor=%white)
+![OPENCV](https://img.shields.io/badge/OpenCV-38B2AC?style=for-the-badge&logo=opencv&logoColor=white)
+![FLASK](https://img.shields.io/badge/Flask-38B2AC?style=for-the-badge&logo=flask&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
