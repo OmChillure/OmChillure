@@ -7,17 +7,31 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/om__chillure) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/OmChillure) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/OmChillure) 
 
 # 💻 Tech Stack:
-<h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=rust,py,cpp,js)](https://skillicons.dev)
+### 🧑🏻‍💻 Languages :
+![RUST](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=rust&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![C++](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=cpp&logoColor=white)</br>
 
-<h2>Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tensorflow,pytorch,opencv,flask)](https://skillicons.dev)
+### Libraries & Framework :
+![NEXTJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TENSORFLOW](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=tensorflow&logoColor=%white)
+![OPENCV](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=opencv&logoColor=white)
+![FLASK](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=flask&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<h2>Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,gcp,git)](https://skillicons.dev)
+### ⚡️ Tools & Platforms:
+![GOOLECLOUDPLATFORM](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=google-cloud&logoColor=white)
+![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/Postman-E25825?style=for-the-badge&logo=postman&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 # 📊 GitHub Stats:
 <h3 align="left">Stars</h3>
