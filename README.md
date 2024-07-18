@@ -26,7 +26,7 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OmChillure&theme=chartreuse-dark" alt="OmChillure" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmChillure&theme=chartreuse-dark&title_color=ffffff&text_color=00ff11&bg_color=000000&hide_border=true&layout=compact" alt="OmChillure stats card" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmChillure&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 
 ---
