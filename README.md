@@ -9,7 +9,7 @@
 # 💻 Tech Stack:
 
 ### 🧑🏻‍💻 Languages :
-![RUST](https://img.shields.io/badge/Rust-007ACC?style=for-the-badge&logo=rust&logoColor=white)
+![RUST](https://img.shields.io/badge/Rust-fb5607?style=for-the-badge&logo=rust&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![C++](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=cpp&logoColor=white)</br>
