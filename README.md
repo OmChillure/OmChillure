@@ -33,7 +33,7 @@
 ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats:-
 <h3 align="left">Stars</h3>
 
 <img align="center" style="background-color: black;" src="https://github-readme-stats-xi-three-38.vercel.app/api?username=OmChillure&amp;theme=chartreuse-dark#gh-dark-mode-only;show_icons=true&amp;count_private=true">
