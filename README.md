@@ -36,7 +36,7 @@
 # 📊 GitHub Stats:-
 <h3 align="left">Stars</h3>
 
-<img align="center" style="background-color: black;" src="https://github-readme-stats-six-chi-27.vercel.app/api?username=OmChillure&amp;theme=chartreuse-dark#gh-dark-mode-only;show_icons=true&amp;count_private=true">
+<img align="center" style="background-color: black;" src="https://github-readme-stats-six-livid-17.vercel.app/api?username=OmChillure&amp;theme=chartreuse-dark#gh-dark-mode-only;show_icons=true&amp;count_private=true">
 
 [![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmChillure)](https://github.com/OmChillure/github-readme-stats)
 
