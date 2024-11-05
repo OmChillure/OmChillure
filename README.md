@@ -38,8 +38,7 @@
 
 <img align="center" style="background-color: black;" src="https://github-readme-stats-xi-three-38.vercel.app/api?username=OmChillure&amp;theme=chartreuse-dark#gh-dark-mode-only;show_icons=true&amp;count_private=true">
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmChillure&repo=github-readme-stats)&theme=chartreuse-dark](https://github.com/OmChillure/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmChillure&repo=github-readme-stats}](https://github.com/OmChillure/github-readme-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=OmChillure&icon=0&color=0)](https://visitcount.itsvg.in)
 
