@@ -33,13 +33,6 @@
 ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-# 📊 GitHub Stats:-
-<h3 align="left">Stars</h3>
 
-<img align="center" style="background-color: black;" src="https://github-readme-stats-six-livid-17.vercel.app/api?username=OmChillure&amp;theme=chartreuse-dark#gh-dark-mode-only;show_icons=true&amp;count_private=true">
-
-[![Om's GitHub stats](https://github-readme-stats-six-livid-17.vercel.app/api?username=OmChillure)](https://github.com/OmChillure/github-readme-stats)
-
-[![](https://visitcount.itsvg.in/api?id=OmChillure&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
