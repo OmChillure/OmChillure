@@ -40,8 +40,7 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OmChillure&theme=chartreuse-dark" alt="OmChillure" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmChillure&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmChillure&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OmChillure&icon=0&color=0)](https://visitcount.itsvg.in)
