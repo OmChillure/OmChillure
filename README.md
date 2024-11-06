@@ -35,5 +35,4 @@
 
 ### 🧑‍💻 Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats-seven-olive-55.vercel.app/api?username=OmChillure&show_icons=true&theme=radical)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
