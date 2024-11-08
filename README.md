@@ -34,4 +34,8 @@
 
 
 ### 🧑‍💻 Github Stats
-![Om's GitHub stats](https://github-readme-stats-gamma-opal.vercel.app/api?username=OmChillure&&show_icons=true&theme=charthuese-dark)
+![Om's GitHub stats](https://github-readme-stats-gamma-opal.vercel.app/api?username=OmChillure&&show_icons=true&theme=chartreuse-dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=OmChillure&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmChillure&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
