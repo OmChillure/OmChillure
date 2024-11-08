@@ -34,5 +34,4 @@
 
 
 ### 🧑‍💻 Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=OmChillure&show_icons=true&theme=dark" alt="GitHub Stats&card_width=450" height="230" />
-
+![Anurag's GitHub stats](https://github-readme-stats-sooty-eight-45.vercel.app/api?username=OmChillure&show_icons=true&theme=radical)
