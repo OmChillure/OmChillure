@@ -34,4 +34,4 @@
 
 
 ### 🧑‍💻 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OmChillure&&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats-gamma-opal.vercel.app/api?username=OmChillure&&show_icons=true&theme=dark)
