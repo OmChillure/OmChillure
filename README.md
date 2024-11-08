@@ -34,4 +34,4 @@
 
 
 ### 🧑‍💻 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats-sooty-eight-45.vercel.app/api?username=OmChillure&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OmChillure&&show_icons=true&theme=dark)
