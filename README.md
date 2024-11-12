@@ -34,7 +34,7 @@
 
 
 ### 🧑‍💻 Github Stats
-![Om's GitHub stats](https://github-readme-stats-gamma-opal.vercel.app/api?username=OmChillure&&show_icons=true&theme=chartreuse-dark)
+![Oms GitHub stats](https://github-readme-stats-gamma-opal.vercel.app/api?username=OmChillure&&show_icons=true&theme=chartreuse-dark)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OmChillure&theme=chartreuse-dark&hide_border=false)<br/>
 
