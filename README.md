@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently focused on learning Blockchain <br>🤝 Delving in C++ to master data structures and algorithms.<br>⚡ Being a fresher seeking continous opportunities for open source contributions.<br>📃 [Download My Resume](https://drive.google.com/file/d/13yJQP2NO2cHex9iIl53qKUHSlPBLo3od/view?usp=sharing)
+🔭  I’m currently focused on Blockchain <br>🤝 Delving in C++ to master data structures and algorithms.<br>⚡ Being a undergrad seeking continous opportunities for open source contributions.<br>📃 [Download My Resume](https://drive.google.com/file/d/17V6UDEKauiKMxs3JvfJgXQqNejiyz98H/view?usp=sharing)
 <br><br> 
 
 
