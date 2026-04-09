@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently focused on Blockchain <br>🤝 Delving in Java / RUST to master data structures and algorithms.<br>⚡ Being a undergrad seeking continous opportunities for open source contributions.<br>📃 [Download My CV](https://drive.google.com/file/d/11w8qISmDib0a3hOyGZVJvDro5T1W9wzj/view?usp=sharing).<br>
+🔭  I’m currently focused on Blockchain <br>🤝 Delving in Java / RUST to master data structures and algorithms.<br>⚡ Being a undergrad seeking continous opportunities for open source contributions.<br>📃 [Download My CV](https://drive.google.com/file/d/1IK0kfxSNV-GX3MUn9c8xsfUesQz2sb9X/view?usp=sharing).<br>
 <br><br> 
 
 
